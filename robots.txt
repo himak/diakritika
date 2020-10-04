@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://diakritika.webstore.sk/sitemap.xml
